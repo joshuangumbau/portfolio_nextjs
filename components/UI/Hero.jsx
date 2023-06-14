@@ -19,7 +19,7 @@ const Hero = () => {
               <h2 className="mt-3 mb-3">I&apos;m Joshua Ngumbau</h2>
               <h5 className="mb-4">Fullstack developer</h5>
               <p>
-              I'm Joshua Ngumbau, a passionate full-stack developer with a passion for crafting innovative digital solutions. With over 3 years of experience in the industry, I have had the privilege of working on a diverse range of projects, honing my skills in both front-end and back-end development.
+              I&apos;m Joshua Ngumbau, a passionate full-stack developer with a passion for crafting innovative digital solutions. With over 3 years of experience in the industry, I have had the privilege of working on a diverse range of projects, honing my skills in both front-end and back-end development.
               </p>
               <div className="mt-5">
                 <button className="primary__btn">

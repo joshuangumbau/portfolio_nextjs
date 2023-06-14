@@ -47,9 +47,10 @@ const Testimonial = () => {
                 </div>
 
                 <p>
-                "Working with Joshua Ngumbau was an absolute pleasure. His expertise as a full-stack developer was evident from the start. He not only had a deep understanding of both front-end and back-end technologies but also possessed exceptional problem-solving skills.
-                 Joshua Ngumbau consistently delivered high-quality code and was able to effectively communicate complex technical concepts to our team. He played a crucial role in the success of our project, and I would highly recommend their services."
-                </p>
+  &quot;Working with Joshua Ngumbau was an absolute pleasure. His expertise as a full-stack developer was evident from the start. He not only has a deep understanding of both front-end and back-end technologies but also possesses exceptional problem-solving skills.
+  Joshua Ngumbau consistently delivers high-quality code and is able to effectively communicate complex technical concepts to our team. He played a crucial role in the success of our project, and I would highly recommend his services.&quot;
+</p>
+
               </div>
 
               <div className={`${classes.testimonial__item}`}>
@@ -69,7 +70,7 @@ const Testimonial = () => {
                 </div>
 
                 <p>
-                "Joshua Ngumbau is a true professional in the field of full-stack development. His ability to seamlessly switch between front-end and back-end tasks was impressive. He showed great attention to detail and always ensured that our website was visually appealing and functionally robust. Joshua Ngumbau also demonstrated excellent collaboration skills, working closely with our team to understand our requirements and provide innovative solutions. I would gladly work with Joshua Ngumbau again and recommend them to anyone seeking top-notch development expertise."
+                &quot;Joshua Ngumbau is a true professional in the field of full-stack development. His ability to seamlessly switch between front-end and back-end tasks was impressive. He showed great attention to detail and always ensured that our website was visually appealing and functionally robust. Joshua Ngumbau also demonstrated excellent collaboration skills, working closely with our team to understand our requirements and provide innovative solutions. I would gladly work with Joshua Ngumbau again and recommend them to anyone seeking top-notch development expertise.&quot;
                 </p>
               </div>
 
@@ -89,7 +90,7 @@ const Testimonial = () => {
                   </div>
                 </div>
                 <p>
-                "Having Joshua Ngumbau on our development team was a game-changer. His extensive knowledge of various programming languages and frameworks allowed us to tackle complex projects with ease. He consistently delivered clean, efficient code and brought a wealth of creative problem-solving skills to the table. Joshua Ngumbau was proactive in suggesting improvements and always strived for excellence. I highly recommend Joshua Ngumbau to anyone in need of a talented and reliable full-stack developer."
+                &quot;Having Joshua Ngumbau on our development team was a game-changer. His extensive knowledge of various programming languages and frameworks allowed us to tackle complex projects with ease. He consistently delivered clean, efficient code and brought a wealth of creative problem-solving skills to the table. Joshua Ngumbau was proactive in suggesting improvements and always strived for excellence. I highly recommend Joshua Ngumbau to anyone in need of a talented and reliable full-stack developer.&quot;
                 </p>
               </div>
             </Slider>

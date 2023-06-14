@@ -14,7 +14,7 @@ const Contact = () => {
             <SectionSubtitle subtitle="Contact me" />
             <h3 className="mt-4 mb-4">Contact with me</h3>
             <p>
-            Hello! I'm Joshua Ngumbau, a passionate and experienced full-stack developer with expertise in front-end
+            Hello! I&apos;m Joshua Ngumbau, a passionate and experienced full-stack developer with expertise in front-end
              and back-end development.I am currently available for freelance projects and open to full-time
               opportunities.If you have an exciting project in mind or would like to discuss how I can contribute to your development needs, please feel free to reach out to me. I would love to hear from you!
 
